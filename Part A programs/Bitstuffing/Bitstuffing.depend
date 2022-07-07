@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1657172781 source:c:\users\lenovo\downloads\np lab\part a programs\bitstuffing\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+

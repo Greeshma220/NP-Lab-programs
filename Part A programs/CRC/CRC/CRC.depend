@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1657176065 source:c:\users\lenovo\downloads\np lab\part a programs\crc\crc\main.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+
